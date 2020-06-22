@@ -1,0 +1,7 @@
+const RUN = "RUN";
+const RUN_WITH_PROFILER = "RUN_WITH_PROFILER";
+
+module.exports = {
+    RUN: RUN,
+    RUN_WITH_PROFILER: RUN_WITH_PROFILER
+};
